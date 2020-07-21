@@ -1,0 +1,46 @@
+#productQty {
+    display: flex;
+    margin: auto;
+}
+
+#learnMore {
+    background: #c43e29;
+    border-color: tomato;
+}
+
+.jumbotron {
+    padding: 2rem;
+    color: whitesmoke;
+    background-color: #dfa2a2;
+}
+
+.card-img-top {
+    max-height: 10rem;
+    max-width: 10rem;
+}
+
+#QtySelector {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    margin: auto;
+}
+
+#orderNow {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    padding: auto;
+
+}
+
+@media (min-width: 1200px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1250px;
+    }
+}

@@ -1,0 +1,6 @@
+.bd-footer {
+    background: #f4f2f7;
+    margin-top: 1rem;
+    flex-shrink: 0;
+    overflow: hidden;
+}

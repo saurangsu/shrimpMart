@@ -1,0 +1,15 @@
+#addForm {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    padding: auto;
+}
+
+#submitOrder {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    padding: auto;
+}
